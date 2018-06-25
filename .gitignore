@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+idea/
+playground/
+logfile.log
+uncaughtExceptions.log
+
+
